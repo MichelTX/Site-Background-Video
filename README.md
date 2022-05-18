@@ -1,4 +1,4 @@
-#<h1> Site-Background-Video.</h1>
+<h1> Site-Background-Video.</h1>
 
 <p>Site criado utilizando HTML e CSS com um background em vídeo.</p>
 
