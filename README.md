@@ -1,8 +1,10 @@
-<h1> Site-Background-Video.</h1>
+<h1> Site-Background-Video</h1>
 
-<p>Site criado utilizando HTML e CSS com um background em vídeo.</p>
+>Site criado utilizando HTML e CSS com um background em vídeo.
 
-<p>Seguindo tutorial disponível no Youtube em :https://www.youtube.com/watch?v=znqUwx0b0HI</p>
+>Seguindo tutorial disponível no Youtube em :
+
+https://www.youtube.com/watch?v=znqUwx0b0HI
   
  _______________________________________________________________________________________________________________________________________________________________________
   
